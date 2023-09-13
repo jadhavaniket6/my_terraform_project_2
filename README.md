@@ -3,7 +3,7 @@
 Open a terminal and create a terraform-multiple-ec2-demo directory:
 mkdir terraform-multiple-ec2-demo
 
-my_terraform_project2/
+terraform-multiple-ec2-demo/
 
 ├── main.tf
 
