@@ -11,8 +11,6 @@ my_terraform_project2/
 
 ├── terraform.tfvars
 
-└── credentials.tf
-
 The terraform init command initializes the plugins and providers that are required to work with AWS resources that need to be provisioned:
 terraform init
 
